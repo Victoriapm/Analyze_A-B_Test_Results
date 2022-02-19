@@ -1,8 +1,6 @@
 # Analyze A/B Test Results
 
 ## Introduction 
-This project is the final task for part 3 of the Udacity Data Analyst Nano Degree. 
-
 The project consists in creating a jupyter notebook to understand the results of an A/B test run by an e-commerce website. 
 The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. 
 The goal is to work through the notebook to help the company understand whether if they should implement this new page, keep the old page, or  run the experiment longer to make their decision.
